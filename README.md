@@ -3,6 +3,20 @@
 <!--
 **Knights-Templars/Knights-Templars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+Myself Anirban, an aspiring astrophysicist. I am working on transients. 
+
+
+
+
+
+
+
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
