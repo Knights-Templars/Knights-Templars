@@ -18,7 +18,9 @@ Myself Anirban, an astrophysics and astronomy researcher. I am working on astrop
 *Highlighted Projects:*
 ---------------------
 ### [SN 2011aa - The slowest declining Type Ia supernova](https://github.com/Knights-Templars/SN2011aa)
-A brief description of Project 1. Why it's interesting or significant.
+### [Analytical modelling of Type Ia supernova](https://github.com/Knights-Templars/SNEXP)
+### [Codes to reduce data from the GROWTH-India Telescope](https://github.com/Knights-Templars/GIT_pipeline)
+### [Python wrapper around ZOGY image subtraction algorithm](https://github.com/Knights-Templars/ZOGY_SUB)
 
 
 
