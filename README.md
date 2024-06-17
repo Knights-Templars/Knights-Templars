@@ -31,3 +31,7 @@ Myself Anirban, an astrophysics and astronomy researcher. I am working on astrop
 
 
 ![Anirban's github stats](https://github-readme-stats.vercel.app/api?username=Knights-Templars&show_icons=true&hide_border=true)
+
+Thankyou for going through my profile!
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Knights-Templars.Knights-Templars)
