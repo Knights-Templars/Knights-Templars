@@ -34,4 +34,4 @@ Myself Anirban, an astrophysics and astronomy researcher. I am working on astrop
 
 Thankyou for going through my profile!
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Knights-Templars.Knights-Templars)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Knights-Templars)
