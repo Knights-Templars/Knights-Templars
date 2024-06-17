@@ -16,7 +16,7 @@ Myself Anirban, an astrophysics and astronomy researcher. I am working on astrop
 <code><img height="40" src="https://github.com/iraf-community/iraf/blob/main/doc/logo.svg"></code>
 
 
-*Radiative Traansfer Codes:*
+*Radiative Transfer Codes:*
 --------------------
 <code><img height="40" src="https://raw.githubusercontent.com/tardis-sn/tardis/master/docs/tardis_logo.ico"></code>
 <code><img height="40" src="https://github.com/dnkasen/pubsed/blob/main/doc/sedona_logo.png"></code>
