@@ -23,6 +23,7 @@ Myself Anirban, an astrophysics and astronomy researcher. I am working on astrop
 
 *Highlighted Projects:*
 ---------------------
+### [Effects of positronium on the gamma-ray spectra and energy deposition in Type Ia supernovae](https://github.com/Knights-Templars/positronium_paper)
 ### [Gamma Ray spectral modelling of Type Ia supernovae](https://github.com/tardis-sn/tardis)
 ### [SN 2011aa - The slowest declining Type Ia supernova](https://github.com/Knights-Templars/SN2011aa)
 ### [Analytical modelling of Type Ia supernova](https://github.com/Knights-Templars/SNEXP)
