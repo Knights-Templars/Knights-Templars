@@ -12,7 +12,8 @@ Myself Anirban, an astrophysics and astronomy researcher. I am working on astrop
 --------------------
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://github.com/iraf-community/iraf/blob/main/doc/logo.svg"></code>
-![VS Code Icon](https://githubusercontent.com)
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+
 
 *Radiative Transfer Codes:*
 --------------------
