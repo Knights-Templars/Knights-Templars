@@ -32,10 +32,6 @@ Myself Anirban, an astrophysics and astronomy researcher. I am working on astrop
 ### [Python wrapper around ZOGY image subtraction algorithm](https://github.com/Knights-Templars/ZOGY_SUB)
 
 
-
-
-![Anirban's github stats](https://github-readme-stats.vercel.app/api?username=Knights-Templars&show_icons=true&hide_border=true)
-
 Thankyou  for spending time in my profile!
 
 ![](https://komarev.com/ghpvc/?username=Knights-Templars&color=yellowgreen&style=plastic)
