@@ -20,6 +20,11 @@ Myself Anirban, an astrophysics and astronomy researcher. I am working on astrop
 <code><img height="40" src="https://raw.githubusercontent.com/tardis-sn/tardis/master/docs/tardis_logo.ico"></code>
 <code><img height="40" src="https://github.com/dnkasen/pubsed/blob/main/doc/sedona_logo.png"></code>
 
+*Presentations:*
+-------------------
+
+### [Presentations](https://github.com/Knights-Templars/Anirban_Presentations)
+
 *Highlighted Projects:*
 ---------------------
 ### [UV Type Ia](https://github.com/Knights-Templars/UV_TypeIa)
