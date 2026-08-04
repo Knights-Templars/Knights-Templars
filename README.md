@@ -33,6 +33,7 @@ I use publicly available radiative transfer codes to study supernovae, and kilon
 
 *Highlighted Projects:*
 ---------------------
+### 🟧 [Image-Align] (https://github.com/Knights-Templars/image-align)
 ### [UV Type Ia](https://github.com/Knights-Templars/UV_TypeIa)
 ### [LSST Alert engine](https://github.com/Knights-Templars/lasair-alert-standalone)
 ### [Effects of positronium on the gamma-ray spectra and energy deposition in Type Ia supernovae](https://github.com/Knights-Templars/positronium_paper)
